@@ -1,2 +1,2 @@
 # 2chpush
-2ch用web push
+某掲示向けweb push
